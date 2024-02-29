@@ -1,0 +1,6 @@
+chrome dev tools
+-copy copy selector to edit in the console, use it in css to make rules
+-edit as html
+-scroll into view
+-hide element
+-delete attribute
